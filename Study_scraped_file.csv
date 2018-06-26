@@ -1,0 +1,5 @@
+,Title,Details,All prices,CityValue
+0,OUTBOUND: LONDON » AMSTERDAM,"['From London', 'To Amsterdam', 'Date 12/07/2018', 'Departs 07:45', 'Arrives 10:00', 'Duration 1:15', 'Stop(s) 0', 'Flight WX6082']","['£119.12', '£201.12', '£307.12']",£119.12
+1,OUTBOUND: LONDON » AMSTERDAM,"['From London', 'To Amsterdam', 'Date 12/07/2018', 'Departs 09:20', 'Arrives 11:30', 'Duration 1:10', 'Stop(s) 0', 'Flight WX6086']","['£119.12', '£201.12', '£307.12']",£119.12
+2,OUTBOUND: LONDON » AMSTERDAM,"['From London', 'To Amsterdam', 'Date 12/07/2018', 'Departs 19:05', 'Arrives 21:15', 'Duration 1:10', 'Stop(s) 0', 'Flight WX6094']","['£264.12', '', '£307.12']",£264.12
+3,OUTBOUND: LONDON » AMSTERDAM,"['From London', 'To Amsterdam', 'Date 12/07/2018', 'Departs 20:05', 'Arrives 22:20', 'Duration 1:15', 'Stop(s) 0', 'Flight WX6098']","['£144.12', '£201.12', '£307.12']",£144.12
